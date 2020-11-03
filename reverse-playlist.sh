@@ -1,3 +1,4 @@
+#!/bin/bash
 #
 # This script reverses the tracks in a playlist.
 # If the playlist is from another user then a new playlist is created.
